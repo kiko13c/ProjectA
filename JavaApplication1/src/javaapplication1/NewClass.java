@@ -12,5 +12,6 @@ package javaapplication1;
 public class NewClass {
     // This is second file
     // 20160705 - 0001
+    // 20160705 - 0002
     
 }
